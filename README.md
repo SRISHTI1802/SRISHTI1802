@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SRISHTI1802
 - 👀 I’m interested in Space and coding.
 - 🌱 I’m currently learning python language.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram- Srishti.1227
 - linkedln- linkedin.com/in/srishti-garg-82ba22217
 
