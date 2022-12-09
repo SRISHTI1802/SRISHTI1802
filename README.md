@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space and coding.
 - 🌱 I’m currently learning python language.
 - 📫 How to reach me Instagram- Srishti.1227
-- linkedln- linkedin.com/in/srishti-garg-82ba22217
+- linkedln- https://www.linkedin.com/in/srishti1227
 
 <!---
 SRISHTI1802/SRISHTI1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
